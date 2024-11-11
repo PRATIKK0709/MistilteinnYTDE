@@ -21,8 +21,9 @@ A simple desktop application built with Python and PyQt6 that allows you to down
 
 1. Install Python 3.7 or higher from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Open a terminal or command prompt and install the required dependencies:
-```pip install pyqt6 yt-dlp
-```
+
+`pip install pyqt6 yt-dlp
+`
 
 
 ## Usage
